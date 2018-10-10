@@ -13,7 +13,7 @@
 
 // SYS: Ubuntu 16.04
 // USAGE: sudo ./mitm_raw_socket GATEWAY_IP TARGET_IP
-
+//trés mignon tout ça !
 int main(int ac, char **av) {
   if (ac != 3) {
     fprintf(stderr, "[!] Usage : sudo ./mitm_raw_socket GATEWAY_IP TARGET_IP\n");
